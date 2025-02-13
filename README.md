@@ -40,11 +40,3 @@ After creating a new repository there are some very simple and basic customizati
 
 ## Deployment 
 This template is meant to be a quick start for creating a website using Jekyll and Markdown. It includes ready GitHub Action for deploying to [GitHub Pages](https://pages.github.com/){:target="_blank"} using Jekyll. The file is `jekyll.yml` under `.github/workflows` is ready to use for deployments. All that is left is to set up GitHub pages deployment using this file as the configuration file for the GitHub deployment action.  
-
-## TO DO 
-- [x] Set up Jekyll Website project
-- [x] Set up GitHub Pages publishing Action
-- [x] Set up custom theme for Jekyll
-- [x] Set up site as a Jekyll Site starter template
-- [x] Improve read me file for real technical users.
-- [ ] Create a "5 minute Quickstart - Jekyll for dummies" blog for non technical users
