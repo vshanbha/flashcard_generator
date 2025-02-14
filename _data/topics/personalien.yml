@@ -1,0 +1,153 @@
+title: Personalien Flashcards
+topic: personalien
+cards:
+  - id: 1001
+    title: "Der Name"
+    description: "Wie man jemanden nennt."
+    related_cards: ["Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
+    examples: ["Mein Name ist Anna.", "Wie ist dein Name?", "Er hat einen ungewöhnlichen Namen."]
+  - id: 1002
+    title: "Die Adresse"
+    description: "Der Ort, an dem jemand wohnt."
+    related_cards: ["Die Straße", "Die Hausnummer", "Die Postleitzahl", "Der Wohnort", "Das Land"]
+    examples: ["Meine Adresse ist Hauptstraße 5.", "Kannst du mir deine Adresse geben?", "Ich habe meine Adresse geändert."]
+  - id: 1003
+    title: "Das Geburtsdatum"
+    description: "Der Tag, an dem jemand geboren wurde."
+    related_cards: ["Der Geburtsort", "Das Alter", "Das Geburtsjahr", "Der Geburtstag", "Die Geburtsurkunde"]
+    examples: ["Mein Geburtsdatum ist der 1. Januar 1990.", "Was ist dein Geburtsdatum?", "Er hat sein Geburtsdatum vergessen."]
+  - id: 1004
+    title: "Die Telefonnummer"
+    description: "Eine Nummer, die man anruft, um jemanden zu erreichen."
+    related_cards: ["Die Handynummer", "Die Festnetznummer", "Die Vorwahl", "Der Kontakt", "Der Anruf"]
+    examples: ["Meine Telefonnummer ist 123456789.", "Kann ich deine Telefonnummer haben?", "Ich habe seine Telefonnummer verloren."]
+  - id: 1005
+    title: "Der Beruf"
+    description: "Die Arbeit, die jemand macht."
+    related_cards: ["Der Job", "Die Arbeit", "Die Karriere", "Die Stelle", "Die Beschäftigung"]
+    examples: ["Mein Beruf ist Lehrer.", "Was ist dein Beruf?", "Sie hat einen interessanten Beruf."]
+  - id: 1006
+    title: "Der Vorname"
+    description: "Der erste Name einer Person."
+    related_cards: ["Der Name", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
+    examples: ["Mein Vorname ist Anna.", "Wie ist dein Vorname?", "Er hat einen ungewöhnlichen Vornamen."]
+  - id: 1007
+    title: "Der Nachname"
+    description: "Der Familienname einer Person."
+    related_cards: ["Der Name", "Der Vorname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
+    examples: ["Mein Nachname ist Müller.", "Wie ist dein Nachname?", "Sie hat einen langen Nachnamen."]
+  - id: 1008
+    title: "Der Spitzname"
+    description: "Ein informeller Name, den man einer Person gibt."
+    related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Familienname", "Der Mädchenname"]
+    examples: ["Mein Spitzname ist Tom.", "Hast du einen Spitznamen?", "Er hat viele Spitznamen."]
+  - id: 1009
+    title: "Der Familienname"
+    description: "Der Nachname, den man von der Familie bekommt."
+    related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Mädchenname"]
+    examples: ["Mein Familienname ist Schmidt.", "Wie ist dein Familienname?", "Sie hat ihren Familiennamen geändert."]
+  - id: 1010
+    title: "Der Mädchenname"
+    description: "Der Nachname einer Frau vor der Heirat."
+    related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname"]
+    examples: ["Ihr Mädchenname ist Becker.", "Wie ist dein Mädchenname?", "Sie hat ihren Mädchennamen behalten."]
+  - id: 1011
+    title: "Die Straße"
+    description: "Ein Weg in einer Stadt oder einem Dorf."
+    related_cards: ["Die Adresse", "Die Hausnummer", "Die Postleitzahl", "Der Wohnort", "Das Land"]
+    examples: ["Meine Straße ist die Hauptstraße.", "In welcher Straße wohnst du?", "Die Straße ist sehr lang."]
+  - id: 1012
+    title: "Die Hausnummer"
+    description: "Die Nummer eines Hauses in einer Straße."
+    related_cards: ["Die Adresse", "Die Straße", "Die Postleitzahl", "Der Wohnort", "Das Land"]
+    examples: ["Meine Hausnummer ist 5.", "Wie ist deine Hausnummer?", "Die Hausnummer ist schwer zu finden."]
+  - id: 1013
+    title: "Die Postleitzahl"
+    description: "Eine Zahl, die ein bestimmtes Gebiet in einer Stadt oder einem Dorf kennzeichnet."
+    related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Der Wohnort", "Das Land"]
+    examples: ["Meine Postleitzahl ist 12345.", "Wie ist deine Postleitzahl?", "Die Postleitzahl ist falsch."]
+  - id: 1014
+    title: "Der Wohnort"
+    description: "Der Ort, an dem jemand wohnt."
+    related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Die Postleitzahl", "Das Land"]
+    examples: ["Mein Wohnort ist Berlin.", "Wo ist dein Wohnort?", "Sie hat ihren Wohnort gewechselt."]
+  - id: 1015
+    title: "Das Land"
+    description: "Ein Gebiet mit eigenen Grenzen und einer eigenen Regierung."
+    related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Die Postleitzahl", "Der Wohnort"]
+    examples: ["Mein Land ist Deutschland.", "In welchem Land lebst du?", "Er hat das Land verlassen."]
+  - id: 1016
+    title: "Der Geburtsort"
+    description: "Der Ort, an dem jemand geboren wurde."
+    related_cards: ["Das Geburtsdatum", "Das Alter", "Das Geburtsjahr", "Der Geburtstag", "Die Geburtsurkunde"]
+    examples: ["Mein Geburtsort ist München.", "Wo ist dein Geburtsort?", "Sie hat ihren Geburtsort besucht."]
+  - id: 1017
+    title: "Das Alter"
+    description: "Die Anzahl der Jahre, die jemand gelebt hat."
+    related_cards: ["Das Geburtsdatum", "Der Geburtsort", "Das Geburtsjahr", "Der Geburtstag", "Die Geburtsurkunde"]
+    examples: ["Mein Alter ist 30 Jahre.", "Wie alt bist du?", "Er hat sein Alter nicht verraten."]
+  - id: 1018
+    title: "Das Geburtsjahr"
+    description: "Das Jahr, in dem jemand geboren wurde."
+    related_cards: ["Das Geburtsdatum", "Der Geburtsort", "Das Alter", "Der Geburtstag", "Die Geburtsurkunde"]
+    examples: ["Mein Geburtsjahr ist 1990.", "In welchem Jahr bist du geboren?", "Sie hat ihr Geburtsjahr vergessen."]
+  - id: 1019
+    title: "Der Geburtstag"
+    description: "Der Tag im Jahr, an dem jemand geboren wurde."
+    related_cards: ["Das Geburtsdatum", "Der Geburtsort", "Das Alter", "Das Geburtsjahr", "Die Geburtsurkunde"]
+    examples: ["Mein Geburtstag ist am 1. Januar.", "Wann hast du Geburtstag?", "Er feiert seinen Geburtstag."]
+  - id: 1020
+    title: "Die Geburtsurkunde"
+    description: "Ein offizielles Dokument, das die Geburt einer Person bestätigt."
+    related_cards: ["Das Geburtsdatum", "Der Geburtsort", "Das Alter", "Das Geburtsjahr", "Der Geburtstag"]
+    examples: ["Meine Geburtsurkunde ist verloren gegangen.", "Hast du deine Geburtsurkunde?", "Er hat eine neue Geburtsurkunde beantragt."]
+  - id: 1021
+    title: "Die Handynummer"
+    description: "Die Nummer eines Mobiltelefons."
+    related_cards: ["Die Telefonnummer", "Die Festnetznummer", "Die Vorwahl", "Der Kontakt", "Der Anruf"]
+    examples: ["Meine Handynummer ist 987654321.", "Kann ich deine Handynummer haben?", "Ich habe seine Handynummer gespeichert."]
+  - id: 1022
+    title: "Die Festnetznummer"
+    description: "Die Nummer eines Festnetztelefons."
+    related_cards: ["Die Telefonnummer", "Die Handynummer", "Die Vorwahl", "Der Kontakt", "Der Anruf"]
+    examples: ["Meine Festnetznummer ist 123456.", "Wie ist deine Festnetznummer?", "Er hat keine Festnetznummer."]
+  - id: 1023
+    title: "Die Vorwahl"
+    description: "Eine Nummer, die man vor der eigentlichen Telefonnummer wählt."
+    related_cards: ["Die Telefonnummer", "Die Handynummer", "Die Festnetznummer", "Der Kontakt", "Der Anruf"]
+    examples: ["Meine Vorwahl ist 030.", "Wie ist deine Vorwahl?", "Die Vorwahl ist wichtig."]
+  - id: 1024
+    title: "Der Kontakt"
+    description: "Eine Person, die man kennt und erreichen kann."
+    related_cards: ["Die Telefonnummer", "Die Handynummer", "Die Festnetznummer", "Die Vorwahl", "Der Anruf"]
+    examples: ["Mein Kontakt ist Anna.", "Hast du einen Kontakt in Berlin?", "Er hat viele Kontakte."]
+  - id: 1025
+    title: "Der Anruf"
+    description: "Eine telefonische Verbindung zu jemandem."
+    related_cards: ["Die Telefonnummer", "Die Handynummer", "Die Festnetznummer", "Die Vorwahl", "Der Kontakt"]
+    examples: ["Ich habe einen Anruf erhalten.", "Kannst du einen Anruf machen?", "Er hat den Anruf verpasst."]
+  - id: 1026
+    title: "Der Job"
+    description: "Eine bezahlte Position der regelmäßigen Beschäftigung."
+    related_cards: ["Der Beruf", "Die Arbeit", "Die Karriere", "Die Stelle", "Die Beschäftigung"]
+    examples: ["Mein Job ist interessant.", "Was ist dein Job?", "Sie hat einen neuen Job."]
+  - id: 1027
+    title: "Die Arbeit"
+    description: "Eine Tätigkeit, die man ausführt, um Geld zu verdienen."
+    related_cards: ["Der Beruf", "Der Job", "Die Karriere", "Die Stelle", "Die Beschäftigung"]
+    examples: ["Meine Arbeit ist anstrengend.", "Wie ist deine Arbeit?", "Er sucht Arbeit."]
+  - id: 1028
+    title: "Die Karriere"
+    description: "Der berufliche Werdegang einer Person."
+    related_cards: ["Der Beruf", "Der Job", "Die Arbeit", "Die Stelle", "Die Beschäftigung"]
+    examples: ["Meine Karriere ist erfolgreich.", "Wie ist deine Karriere?", "Sie plant ihre Karriere."]
+  - id: 1029
+    title: "Die Stelle"
+    description: "Eine Position oder ein Job in einer Organisation."
+    related_cards: ["Der Beruf", "Der Job", "Die Arbeit", "Die Karriere", "Die Beschäftigung"]
+    examples: ["Meine Stelle ist sicher.", "Hast du eine neue Stelle?", "Er hat seine Stelle verloren."]
+  - id: 1030
+    title: "Die Beschäftigung"
+    description: "Eine Tätigkeit, die man regelmäßig ausführt."
+    related_cards: ["Der Beruf", "Der Job", "Die Arbeit", "Die Karriere", "Die Stelle"]
+    examples: ["Meine Beschäftigung ist Lehrer.", "Was ist deine Beschäftigung?", "Sie hat eine interessante Beschäftigung."]
