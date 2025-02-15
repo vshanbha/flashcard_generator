@@ -85,10 +85,6 @@ navigation_header:
   url: /flashcards/
 - title: About
   url: /about/
-- title: Read Me
-  url: /readme/
-- title: Search
-  url: /search/
 - title: Team
   url: /team/
 
