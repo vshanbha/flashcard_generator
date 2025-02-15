@@ -52,16 +52,3 @@ categories:
         description: "An einem bestimmten Ort leben."
         related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Der Wohnort", "Das Land"]
         examples: ["Ich wohne in Berlin.", "Wo wohnst du?", "Sie wohnt in einer kleinen Stadt."]
-  - name: Pronouns
-    value: "Pronomen"
-    cards:
-      - id: 3001
-        title: "ich"
-        description: "Die erste Person Singular."
-        related_cards: ["du", "er", "sie", "es"]
-        examples: ["Ich bin müde.", "Wie geht es dir?", "Er und ich sind Freunde."]
-      - id: 3002
-        title: "du"
-        description: "Die zweite Person Singular."
-        related_cards: ["ich", "er", "sie", "es"]
-        examples: ["Du bist nett.", "Wie heißt du?", "Sie und du sind"]
