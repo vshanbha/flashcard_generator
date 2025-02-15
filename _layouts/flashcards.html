@@ -138,6 +138,7 @@ layout: page
   <div id="flashcard-container"></div>
   <div style="margin-top: 20px; text-align: center;">
     <button style="width: 120px;" onclick="prevCard()">Previous</button>
+    <button style="width: 120px;" onclick="randomCard()">Random</button>
     <button style="width: 120px;" onclick="nextCard()">Next</button>
   </div>
   <script>
@@ -166,6 +167,16 @@ layout: page
         current_index--;
         renderCard(current_index);
       }
+    }
+    function randomCard() {
+      const category_index = getCategoryIndexByValue(current_category_value);
+      if (category_index === -1) {
+        console.error('Category not found');
+        return;
+      }
+      const category = categories[category_index];
+      current_index = Math.floor(Math.random() * category.cards.length);
+      renderCard(current_index);
     }
   </script>
 </body>
