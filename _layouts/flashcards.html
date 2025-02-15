@@ -95,6 +95,22 @@ layout: page
     <button style="width: 120px;" onclick="nextCard()">Next</button>
   </div>
   <script>
+    let touchstartX = 0;
+    let touchendX = 0;
+
+    function handleGesture() {
+      if (touchendX < touchstartX) nextCard();
+      if (touchendX > touchstartX) prevCard();
+    }
+    let container = document.getElementById('flashcard-container');
+    container.addEventListener('touchstart', function(event) {
+      touchstartX = event.changedTouches[0].screenX;
+    }, false);
+
+    container.addEventListener('touchend', function(event) {
+      touchendX = event.changedTouches[0].screenX;
+      handleGesture();
+    }, false);
     function nextCard() {
       current_index = (current_index + 1) % categories[getCategoryIndexByValue(current_category_value)].cards.length;
       renderCard(current_index);
